@@ -56,5 +56,3 @@ let look_and_say () =
 (** error check2*)
 
 (** testing branching feature, error check*)
-
-  
