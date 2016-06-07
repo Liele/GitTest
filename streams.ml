@@ -55,6 +55,6 @@ let look_and_say () =
   Stream ( [1] , fun () -> helper [] None 0 [1] )
 
 
-(** testing branching feature *)
+(** testing branching feature, in order to test branch *)
 
   
