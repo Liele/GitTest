@@ -53,8 +53,6 @@ let look_and_say () =
                               else helper (x::count::acc) (Some h) 1 t  in 
 
   Stream ( [1] , fun () -> helper [] None 0 [1] )
+(** error check2*)
 
-
-(** testing branching feature, in order to test branch *)
-
-  
+(** testing branching feature, error check*)
